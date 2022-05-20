@@ -1,0 +1,5 @@
+application:
+  dynamo:
+    customer-table-name: "demo-customer-info"
+    region: "sa-east-1"
+    endpoint: "http://localhost:8000"
